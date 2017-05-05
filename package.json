@@ -1,0 +1,33 @@
+{
+  "name": "cordova-plugin-localizations-plist",
+  "version": "1.0.0",
+  "author": "Antoine Demailly <antoine.demailly@gmx.fr> (https://www.antoinedemailly.fr)",
+  "description": "Cordova/PhoneGap plugin for set your localizations in Info.plist",
+  "cordova": {
+    "id": "cordova-plugin-localizations-plist",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antoine-Demailly/cordova-plugin-localizations-plist.git"
+  },
+  "keywords": [
+    "cordova",
+    "ios",
+    "app",
+    "plist"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Antoine-Demailly/cordova-plugin-localizations-plist/issues"
+  },
+  "homepage": "https://github.com/Antoine-Demailly/cordova-plugin-localizations-plist#readme"
+}
